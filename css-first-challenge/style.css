@@ -1,3 +1,10 @@
+/* h1-h3 tags font */
+
+h1, h2, h3 {
+  font-family: Verdana;
+  font-style: italic;
+}
+
 /* 첫번째 챌린지 */
 
 .box {
