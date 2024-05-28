@@ -15,6 +15,34 @@
     border-color : blue;
 }
 
+/* 보너스 1 */
+
+.change-color-1 {
+  border-color : #7469B6;
+}
+
+.change-color-2 {
+  border-color : #F9F07A;
+}
+
+.change-color-3 {
+  border-color : #FB88B4;
+}
+
+/* 보너스 2 */
+
+.bonus-box {
+  display : flex;
+  justify-content: space-around;
+}
+
+.dis-none {
+  display : none;
+}
+
+.vis-hidden {
+  visibility : hidden;
+}
 
 /* 두벌째 챌린지 */
 
